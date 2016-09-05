@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme id="theme">
+	<name>招聘</name>
+	<threshold>0.6</threshold>
+	<keywords>
+		招聘
+	</keywords>
+	<urlseed>http://www.zhaopin.com</urlseed>
+</theme>
+	
